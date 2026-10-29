@@ -1,0 +1,74 @@
+*{
+    background-color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1.7;
+}
+body{
+    color: #f17b9e;
+    font-size: 2.7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 2.3;
+}
+h1{
+    height: 5.9;
+    color: #f17b60;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3.2;
+}
+h3{
+    font-size: 7.9;
+    color: #f17b60;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3.2;
+}
+p{
+    height: 4.2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1.5;
+    justify-content: right;
+}
+div{
+    padding: 2.3;
+    height: 2.4;
+    width: 7.2;
+    color: #2275b2;
+}
+.opcion3{
+    color: red;
+    padding: 3.2;
+}
+.opcion4{
+    color: #F54927;
+    padding: auto;
+}
+.opcion5{
+    color: #EBDB33;
+}
+.opcion6{
+    color: #475a3f;
+}
+.opcion7{
+    color: #6997d3;
+}
+.opcion8{
+    color: #5a1094;
+}
+.opcion9{
+    color: #eba8b2;
+}
+.opcion10{
+    color: #a49d9f;
+}
+.opcion11{
+    color: #960312;
+}
+.less{
+    padding: 20px;
+    width: auto;
+    height: auto;
+
+}
+a{
+    padding: 7;
+    color: #5a1094;
+}
